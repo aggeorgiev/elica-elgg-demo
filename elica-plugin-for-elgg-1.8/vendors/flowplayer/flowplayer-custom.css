@@ -24,4 +24,6 @@
 
 .flowplayer {
 	background-color: #eee;
+    width: 640px;
+    height: 480px;
 }
